@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wfbg/static/css/main.10a2fc00.css",
+    "main.js": "/wfbg/static/js/main.4b1b4831.js",
+    "index.html": "/wfbg/index.html",
+    "main.10a2fc00.css.map": "/wfbg/static/css/main.10a2fc00.css.map",
+    "main.4b1b4831.js.map": "/wfbg/static/js/main.4b1b4831.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10a2fc00.css",
+    "static/js/main.4b1b4831.js"
+  ]
+}
